@@ -14,7 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<a href="https://github.com/xiazhongyucode"><img src="contributions.svg"></a>
-
-<img width="0" src="https://visitor-badge.glitch.me/badge?page_id=xiazhongyucode.xiazhongyucode" />
